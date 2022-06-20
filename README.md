@@ -31,3 +31,4 @@ What is your favorite English/Japanese word?
 10. Great
 11. 好きこそものの上手なれ
 12. もみの木
+13. 臥薪嘗胆
